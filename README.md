@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyunMin's%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyunMin's%20github&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -24,9 +24,8 @@
 <div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhm6179&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true">
-
-<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true">
+	<br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhm6179)](https://solved.ac/lhm6179)
