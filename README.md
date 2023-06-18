@@ -15,11 +15,11 @@
 <br>
 <div align=center>
 	<br>
-	![Hyun6179's github stats](https://github-readme-stats.vercel.app/api?username=Hyun6179&show_icons=true)
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true"/>
-	<br>
-	<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Hyun6179&show_icons=true">
+	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun6179&layout=compact">
+
+<br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhm6179)](https://solved.ac/lhm6179)
