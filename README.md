@@ -15,7 +15,7 @@
 <br>
 <div align=center>
 	<br>
-	![Hyun6179's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun6179&show_icons=true&theme=radical)
+	![Hyun6179's github stats](https://github-readme-stats.vercel.app/api?username=Hyun6179&show_icons=true)
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true"/>
 	<br>
