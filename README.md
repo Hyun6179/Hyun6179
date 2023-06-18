@@ -19,7 +19,7 @@
 <br>
 <div align=center>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhm6179&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true&theme=algoria"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true">
 	<br>
 <p>🏆 Baekjoon solved rank 🏆</p>
