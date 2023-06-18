@@ -17,8 +17,8 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhm6179&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
 </div>
 <br>
 <div align=center>
