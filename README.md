@@ -14,10 +14,6 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-<br>
-<div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true&theme=algoria"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true">
