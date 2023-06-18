@@ -1,4 +1,4 @@
-<div align="center">
+<div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyunMin's%20github&fontSize=90" />	
 </div>
 <div align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 </div>
 <br>
-<div align="center">
+<div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=lhm6179&show_icons=true&theme=algoria"/>
 	<br>
